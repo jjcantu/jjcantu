@@ -8,7 +8,6 @@
 - 🧪 Next Project in Mind: 3-D Algorithm Pathfinding Visualizer with React/Three.js
 - ⚡ Fun fact: I love to swim/workout when I am not programming.
 <br />
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -32,5 +31,6 @@
 
 <br />
 <br />
-
+<br />
+<br />
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vour123&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)

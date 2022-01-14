@@ -36,3 +36,9 @@
 <br />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vour123&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
+<br />
+<br />
+
+[![Spotify](https://novatorem-vour123.vercel.app/api/spotify)](https://open.spotify.com/user/12183131250)

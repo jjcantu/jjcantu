@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineer!
 - 🔭 I’m currently working on acquring my first software engineer job!
-- 🌱 Refining: My Data Structures & Algorithm skills.
+- 🌱 Refining: My Data Structures & Algorithms skills.
 - 💬 Ask me about my projects!
 - 🥅 2022 Goals: Master React and win a competitive programming contest. 
 - 🧪 Next Project in Mind: 3-D Algorithm Pathfinding Visualizer with React/Three.js

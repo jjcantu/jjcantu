@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Jose Cantu 👋
 
+## I'm a Software Engineer!
 - 🔭 I’m currently working on accquring my first software engineer job!
 - 🌱 I’m currently refining my Data Structures & Algorithm skills.
 - 💬 Ask me about my projects!

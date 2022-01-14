@@ -30,4 +30,7 @@
 <img align="left" alt="Postman" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" />
 <img align="left" alt="Postman" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"" />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vour123)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+<br />
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vour123&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)

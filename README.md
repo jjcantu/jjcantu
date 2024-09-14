@@ -1,7 +1,6 @@
 ### Hi there, I'm Jose Cantu 👋
 
 ## I'm a Software Engineer!
-- 🔭 I’m currently looking for a new role!
 - 🌱 Refining: My Data Structures & Algorithms skills.
 - 💬 Ask me about my projects!
 - 🥅 2023 Goals: Dabble with AI and create a fun, exciting project. 

@@ -7,5 +7,3 @@
 - ⚡ Fun fact: I love to swim/workout when I am not programming.
 <br />
 <br />
-
-[![Spotify](https://novatorem-vour123.vercel.app/api/spotify)](https://open.spotify.com/user/12183131250)
